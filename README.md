@@ -5,4 +5,4 @@
 I work as a developer and CTO at [Senacor](https://senacor.com) and try keep up with tech - with an emphasis on "try".
 
 
-Read more at at [my blog](https://blog.koenighotze.de)
+Read more at [my blog](https://blog.koenighotze.de)
